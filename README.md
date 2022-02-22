@@ -6,6 +6,7 @@ This collection includes a fair amount of unique weapons, items and blocks. Ther
 
 License: [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
+Most of the weapons:
 ![Sample](Samples.png)
 
 If you like my work, consider buying me a coffee.   
